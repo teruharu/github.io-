@@ -31,13 +31,13 @@ img {
 .global-nav li {
   float: left;
   margin: 0 20px;
-  font-size: 25px;
+  font-size: 28px;
   list-style: none;
   font-family: 'Pinyon Script', cursive;
 }
 
 .global-nav li a{
-  color: #ffffff;
+  color: black;
 }
 
 a {
